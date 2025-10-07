@@ -72,3 +72,4 @@ export default defineConfig([
 ])
 ```
 # ai-recipe-generator
+# ai-recipe-generator
